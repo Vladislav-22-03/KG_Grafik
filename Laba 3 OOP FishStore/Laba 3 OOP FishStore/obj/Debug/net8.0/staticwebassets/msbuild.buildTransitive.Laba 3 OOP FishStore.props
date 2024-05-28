@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Laba 3 OOP FishStore.props" />
+</Project>

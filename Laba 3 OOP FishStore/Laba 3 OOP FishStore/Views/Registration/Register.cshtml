@@ -1,0 +1,38 @@
+﻿@using Laba_3_OOP_FishStore.Controllers
+@using Laba_3_OOP_FishStore.Features.DtoModels.User
+@model EditUser
+
+<body>
+    <div class="content">
+        <div class="register-container">
+            <h2>Register</h2>
+            @using (Html.BeginForm(nameof(RegistrationController.CreateRegister), "Registration", FormMethod.Post))
+            {
+                @Html.ValidationSummary(true, "", new { @class = "alert alert-danger" })
+
+                @Html.HiddenFor(m => m.IsnNode)
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.SurName)
+                    @Html.TextBoxFor(m => m.SurName, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.SurName, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Mail)
+                    @Html.TextBoxFor(m => m.Mail, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Mail, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password)
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                </div>
+                <button type="submit" class="btn btn-primary btn-block">Register</button>
+            }
+        </div>
+    </div>
+    <footer>
+        &copy; @DateTime.Now.Year FishSrore. All rights reserved.
+    </footer>
+</body>
+</html>

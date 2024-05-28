@@ -1,0 +1,739 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\features\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\features\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\features\\dtomodels\\user\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\features\\dtomodels\\user\\edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.storage.ms_sql\\sqlservercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|solutionrelative:fishstore.storage.ms_sql\\sqlservercontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA0D09E-E94F-4AD7-A3C8-16D2C32FD5C6}|FishStore.Storage\\FishStore.Storage.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.storage\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA0D09E-E94F-4AD7-A3C8-16D2C32FD5C6}|FishStore.Storage\\FishStore.Storage.csproj|solutionrelative:fishstore.storage\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA0D09E-E94F-4AD7-A3C8-16D2C32FD5C6}|FishStore.Storage\\FishStore.Storage.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.storage\\models\\center.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA0D09E-E94F-4AD7-A3C8-16D2C32FD5C6}|FishStore.Storage\\FishStore.Storage.csproj|solutionrelative:fishstore.storage\\models\\center.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA0D09E-E94F-4AD7-A3C8-16D2C32FD5C6}|FishStore.Storage\\FishStore.Storage.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.storage\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA0D09E-E94F-4AD7-A3C8-16D2C32FD5C6}|FishStore.Storage\\FishStore.Storage.csproj|solutionrelative:fishstore.storage\\database\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\services\\centerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\services\\centerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\repositories\\centerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\repositories\\centerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\interfaces\\services\\icenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\interfaces\\services\\icenterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\interfaces\\repositories\\icenterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\interfaces\\repositories\\icenterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\dtomodels\\filters\\centerfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\dtomodels\\filters\\centerfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\dtomodels\\filters\\userfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\dtomodels\\filters\\userfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\features\\interfaces\\managers\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\features\\interfaces\\managers\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\features\\interfaces\\managers\\icentermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\features\\interfaces\\managers\\icentermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\extensions\\servicecollectionextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\extensions\\servicecollectionextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA0D09E-E94F-4AD7-A3C8-16D2C32FD5C6}|FishStore.Storage\\FishStore.Storage.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.storage\\extensions\\models\\userextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA0D09E-E94F-4AD7-A3C8-16D2C32FD5C6}|FishStore.Storage\\FishStore.Storage.csproj|solutionrelative:fishstore.storage\\extensions\\models\\userextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\views\\registration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\20240528113344_Register1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FishStore.Storage.MS_SQL\\Migrations\\20240528113344_Register1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.storage.ms_sql\\migrations\\20240528101658_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|solutionrelative:fishstore.storage.ms_sql\\migrations\\20240528101658_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\features\\managers\\centermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\features\\managers\\centermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\features\\centermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\features\\centermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\features\\dtomodels\\center\\centerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\features\\dtomodels\\center\\centerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\views\\manage\\center.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\views\\manage\\center.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\fishstore.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\fishstore.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\laba 3 oop fishstore\\features\\dtomodels\\center\\editcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A63ED9B-A2B4-4D01-B313-D1D19DBA9DDC}|Laba 3 OOP FishStore\\FishStore.Web.csproj|solutionrelative:laba 3 oop fishstore\\features\\dtomodels\\center\\editcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.logic\\fishstore.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CE76124-6104-4588-B473-5F54B8562110}|FishStore.Logic\\FishStore.Logic.csproj|solutionrelative:fishstore.logic\\fishstore.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.storage.ms_sql\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|solutionrelative:fishstore.storage.ms_sql\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.storage.ms_sql\\migrations\\20240430124531_addfieldcodetablecentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|solutionrelative:fishstore.storage.ms_sql\\migrations\\20240430124531_addfieldcodetablecentre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|c:\\users\\vladi\\source\\repos\\laba 3 oop fishstore\\fishstore.storage.ms_sql\\migrations\\20240528093959_updatexyi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F19631-6FED-4279-A8FD-913223EEB01F}|FishStore.Storage.MS_SQL\\FishStore.Storage.MS_SQL.csproj|solutionrelative:fishstore.storage.ms_sql\\migrations\\20240528093959_updatexyi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlServerContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\SqlServerContextFactory.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage.MS_SQL\\SqlServerContextFactory.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\SqlServerContextFactory.cs",
+              "RelativeToolTip": "FishStore.Storage.MS_SQL\\SqlServerContextFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:38:47.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:27:29.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Controllers\\ManageController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwCQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:25:45.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:03:19.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:58:53.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditUser.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\DtoModels\\User\\EditUser.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Features\\DtoModels\\User\\EditUser.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\DtoModels\\User\\EditUser.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Features\\DtoModels\\User\\EditUser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:26:27.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Features\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\Managers\\UserManager.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Features\\Managers\\UserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:23:16.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage\\Models\\User.cs",
+              "RelativeToolTip": "FishStore.Storage\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:08:13.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Center.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage\\Models\\Center.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage\\Models\\Center.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage\\Models\\Center.cs",
+              "RelativeToolTip": "FishStore.Storage\\Models\\Center.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAawA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:24:54.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage\\Database\\DataContext.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage\\Database\\DataContext.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage\\Database\\DataContext.cs",
+              "RelativeToolTip": "FishStore.Storage\\Database\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:23:34.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Services\\UserService.cs",
+              "RelativeToolTip": "FishStore.Logic\\Services\\UserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:03:35.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CenterService.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Services\\CenterService.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\Services\\CenterService.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Services\\CenterService.cs",
+              "RelativeToolTip": "FishStore.Logic\\Services\\CenterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:03:54.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "FishStore.Logic\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:13:46.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CenterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Repositories\\CenterRepository.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\Repositories\\CenterRepository.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Repositories\\CenterRepository.cs",
+              "RelativeToolTip": "FishStore.Logic\\Repositories\\CenterRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:12:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "FishStore.Logic\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:08:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICenterService.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Interfaces\\Services\\ICenterService.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\Interfaces\\Services\\ICenterService.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Interfaces\\Services\\ICenterService.cs",
+              "RelativeToolTip": "FishStore.Logic\\Interfaces\\Services\\ICenterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:10:26.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "FishStore.Logic\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:15:50.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICenterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Interfaces\\Repositories\\ICenterRepository.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\Interfaces\\Repositories\\ICenterRepository.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Interfaces\\Repositories\\ICenterRepository.cs",
+              "RelativeToolTip": "FishStore.Logic\\Interfaces\\Repositories\\ICenterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:16:11.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CenterFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\DtoModels\\Filters\\CenterFilterDto.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\DtoModels\\Filters\\CenterFilterDto.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\DtoModels\\Filters\\CenterFilterDto.cs",
+              "RelativeToolTip": "FishStore.Logic\\DtoModels\\Filters\\CenterFilterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:03:52.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\DtoModels\\Filters\\UserFilterDto.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\DtoModels\\Filters\\UserFilterDto.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\DtoModels\\Filters\\UserFilterDto.cs",
+              "RelativeToolTip": "FishStore.Logic\\DtoModels\\Filters\\UserFilterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:09:13.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\Interfaces\\Managers\\IUserManager.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Features\\Interfaces\\Managers\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\Interfaces\\Managers\\IUserManager.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Features\\Interfaces\\Managers\\IUserManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:30:15.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICenterManager.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\Interfaces\\Managers\\ICenterManager.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Features\\Interfaces\\Managers\\ICenterManager.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\Interfaces\\Managers\\ICenterManager.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Features\\Interfaces\\Managers\\ICenterManager.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:45:43.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServiceCollectionExtenstions.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Extensions\\ServiceCollectionExtenstions.cs",
+              "RelativeDocumentMoniker": "FishStore.Logic\\Extensions\\ServiceCollectionExtenstions.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\Extensions\\ServiceCollectionExtenstions.cs",
+              "RelativeToolTip": "FishStore.Logic\\Extensions\\ServiceCollectionExtenstions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:45:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage\\Extensions\\Models\\UserExtensions.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage\\Extensions\\Models\\UserExtensions.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage\\Extensions\\Models\\UserExtensions.cs",
+              "RelativeToolTip": "FishStore.Storage\\Extensions\\Models\\UserExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvwkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:51:02.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\Registration\\Register.cshtml",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Views\\Registration\\Register.cshtml",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\Registration\\Register.cshtml",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Views\\Registration\\Register.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:33:43.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:13:55.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:13:56.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240528113344_Register1.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\20240528113344_Register1.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage.MS_SQL\\Migrations\\20240528113344_Register1.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\20240528113344_Register1.cs",
+              "RelativeToolTip": "FishStore.Storage.MS_SQL\\Migrations\\20240528113344_Register1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:33:44.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240528101658_Register.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\20240528101658_Register.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage.MS_SQL\\Migrations\\20240528101658_Register.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\20240528101658_Register.cs",
+              "RelativeToolTip": "FishStore.Storage.MS_SQL\\Migrations\\20240528101658_Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:16:59.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\appsettings.json",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\appsettings.json",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T09:57:05.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\appsettings.Development.json",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T10:02:38.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240528093959_Updatexyi.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\20240528093959_Updatexyi.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage.MS_SQL\\Migrations\\20240528093959_Updatexyi.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\20240528093959_Updatexyi.cs",
+              "RelativeToolTip": "FishStore.Storage.MS_SQL\\Migrations\\20240528093959_Updatexyi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:40:00.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CenterMapper.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\CenterMapper.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Features\\CenterMapper.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\CenterMapper.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Features\\CenterMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:18:21.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CenterManager.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\Managers\\CenterManager.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Features\\Managers\\CenterManager.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\Managers\\CenterManager.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Features\\Managers\\CenterManager.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:44:19.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T22:31:58.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Center.cshtml",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\Manage\\Center.cshtml",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Views\\Manage\\Center.cshtml",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Views\\Manage\\Center.cshtml",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Views\\Manage\\Center.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T21:31:34.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Program.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Program.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Program.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:55:22.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CenterDto.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\DtoModels\\Center\\CenterDto.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Features\\DtoModels\\Center\\CenterDto.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\DtoModels\\Center\\CenterDto.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Features\\DtoModels\\Center\\CenterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:42:34.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FishStore.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\FishStore.Web.csproj",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\FishStore.Web.csproj",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\FishStore.Web.csproj",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\FishStore.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T11:26:44.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditCenter.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\DtoModels\\Center\\EditCenter.cs",
+              "RelativeDocumentMoniker": "Laba 3 OOP FishStore\\Features\\DtoModels\\Center\\EditCenter.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\Laba 3 OOP FishStore\\Features\\DtoModels\\Center\\EditCenter.cs",
+              "RelativeToolTip": "Laba 3 OOP FishStore\\Features\\DtoModels\\Center\\EditCenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T20:43:01.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FishStore.Logic.csproj",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\FishStore.Logic.csproj",
+              "RelativeDocumentMoniker": "FishStore.Logic\\FishStore.Logic.csproj",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Logic\\FishStore.Logic.csproj",
+              "RelativeToolTip": "FishStore.Logic\\FishStore.Logic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T19:42:18.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240430124531_AddFieldCodeTableCentre.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\20240430124531_AddFieldCodeTableCentre.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage.MS_SQL\\Migrations\\20240430124531_AddFieldCodeTableCentre.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\20240430124531_AddFieldCodeTableCentre.cs",
+              "RelativeToolTip": "FishStore.Storage.MS_SQL\\Migrations\\20240430124531_AddFieldCodeTableCentre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:45:31.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FishStore.Storage.MS_SQL\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\vladi\\source\\repos\\Laba 3 OOP FishStore\\FishStore.Storage.MS_SQL\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "FishStore.Storage.MS_SQL\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T09:55:37.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

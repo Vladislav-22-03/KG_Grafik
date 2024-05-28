@@ -1,0 +1,30 @@
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\bin\Debug\net8.0\appsettings.json
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\bin\Debug\net8.0\Laba 3 OOP FishStore.staticwebassets.runtime.json
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\bin\Debug\net8.0\Laba 3 OOP FishStore.exe
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\bin\Debug\net8.0\Laba 3 OOP FishStore.deps.json
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\bin\Debug\net8.0\Laba 3 OOP FishStore.runtimeconfig.json
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\bin\Debug\net8.0\Laba 3 OOP FishStore.dll
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\bin\Debug\net8.0\Laba 3 OOP FishStore.pdb
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.AssemblyInfo.cs
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.RazorAssemblyInfo.cache
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.RazorAssemblyInfo.cs
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\staticwebassets\msbuild.Laba 3 OOP FishStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\staticwebassets\msbuild.build.Laba 3 OOP FishStore.props
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Laba 3 OOP FishStore.props
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Laba 3 OOP FishStore.props
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\scopedcss\bundle\Laba 3 OOP FishStore.styles.css
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\scopedcss\projectbundle\Laba 3 OOP FishStore.bundle.scp.css
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.dll
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\refint\Laba 3 OOP FishStore.dll
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.pdb
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\Laba 3 OOP FishStore.genruntimeconfig.cache
+C:\Users\vladi\source\repos\Laba 3 OOP FishStore\Laba 3 OOP FishStore\obj\Debug\net8.0\ref\Laba 3 OOP FishStore.dll
